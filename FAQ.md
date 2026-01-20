@@ -1,12 +1,13 @@
+FAQ.md
 # FAQ - Frequently Asked Questions
 
-**Quick answers to common questions about Solaris Framework**
+**Quick answers to common questions about Phyllux Framework**
 
 ---
 
 ## General Questions
 
-### What is Solaris Framework?
+### What is Phyllux Framework?
 
 A complete IP protection system for independent inventors that costs $0 and includes:
 - Templates for establishing prior art
@@ -30,7 +31,7 @@ You can:
 - Use all templates
 - Follow all guides
 - Establish prior art on GitHub (free)
-- License your invention using Solaris terms
+- License your invention using Phyllux terms
 
 **Only cost:** If you choose to file patents later ($60K-130K), but that's optional.
 
@@ -66,8 +67,8 @@ You can:
 **Depends on country:**
 
 **US/Canada:** 12-month grace period
-- Disclose January 1, 2026
-- Can file patents until January 1, 2027
+- Disclose January 20, 2026
+- Can file patents until January 20, 2027
 - Grace period protects you
 
 **Europe/Asia:** No grace period (generally)
@@ -85,7 +86,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 
 **Commercial use requires license (Tiers 1-3):**
 - If they use without license: Breach of terms
-- You can: Send cease & desist, negotiate license, sue
+- You can: Send cease & desist, negotiate license, pursue enforcement
 - Community defense fund helps with legal costs
 
 ### Do I need to file patents?
@@ -96,7 +97,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 - ✅ Prior art protects you from trolls
 - ✅ Licensing revenue (based on contract, not patents)
 - ✅ Community defense against infringement
-- ❌ Can't sue for infringement (no patent to enforce)
+- ❌ Can't sue for patent infringement (no patent to enforce)
 
 **With patents:**
 - ✅ All the above
@@ -150,8 +151,8 @@ See [GUIDES/How_to_negotiate_licenses.md](GUIDES/How_to_negotiate_licenses.md).
 ### What if someone violates Tier 4 (free) by commercializing?
 
 **Action:**
-1. Send friendly email: "Hey, you need to upgrade to Tier 3"
-2. If they comply: Great! Negotiate Tier 3 terms
+1. Send friendly email: "Hey, you need to upgrade to appropriate tier"
+2. If they comply: Great! Negotiate terms
 3. If they refuse: Cease & desist letter
 4. If still refuse: Community defense fund, legal action
 
@@ -161,7 +162,7 @@ See [GUIDES/How_to_negotiate_licenses.md](GUIDES/How_to_negotiate_licenses.md).
 
 ## Technical Questions
 
-### What kind of inventions work with Solaris?
+### What kind of inventions work with Phyllux?
 
 **Any invention!**
 
@@ -173,11 +174,11 @@ See [GUIDES/How_to_negotiate_licenses.md](GUIDES/How_to_negotiate_licenses.md).
 - Business methods (novel processes)
 - Design (novel appearances)
 
-**If you invented it, Solaris can protect it.**
+**If you invented it, Phyllux can protect it.**
 
 ### Can I use this for software?
 
-**YES!** Solaris works great for software:
+**YES!** Phyllux works great for software:
 
 **Copyright:** Protects code (automatic)
 **Patents:** Protects algorithms/methods (optional)
@@ -227,7 +228,7 @@ See [GUIDES/How_to_negotiate_licenses.md](GUIDES/How_to_negotiate_licenses.md).
 3. **Email:** phibronotchi@gmail.com (framework creator)
 4. **Patent agents:** See COMMUNITY/Resources.md
 
-### Can I contribute to improving Solaris?
+### Can I contribute to improving Phyllux?
 
 **YES! Please do!**
 
@@ -253,24 +254,24 @@ See [COMMUNITY/How_to_contribute.md](COMMUNITY/How_to_contribute.md).
 - Ask about payment plans (some offer this)
 - DIY provisional patents (save money, file utility later)
 
-### Are there examples of inventors using Solaris?
+### Are there examples of inventors using Phyllux?
 
 **Yes!**
 
 **Original implementation:** David Sproule's biomimetic inventions
 - Repository: https://github.com/phibronotchi-beep/biomimetic-inventions-public
-- Technologies: PNM, GAFAA, PhiKey, IBS
-- Status: Prior art established, patents pending, licenses in negotiation
+- Technologies: Phyllux Mesh, Phyllux Wave, Phyllux Vault, Phyllux Core
+- Status: Prior art established January 2026 | Patents pending, licenses in negotiation
 
 **More success stories:** See [COMMUNITY/Success_stories.md](COMMUNITY/Success_stories.md)
 
-*Your story could be here! Submit after you use Solaris.*
+*Your story could be here! Submit after you use Phyllux.*
 
 ---
 
 ## Legal & Jurisdiction
 
-### Does Solaris work in my country?
+### Does Phyllux work in my country?
 
 **Prior art works EVERYWHERE** (patent offices worldwide search it).
 
@@ -284,7 +285,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 
 ### What if I'm not in US/Canada?
 
-**You can still use Solaris!**
+**You can still use Phyllux!**
 
 **Benefits:**
 - Prior art blocks trolls worldwide
@@ -296,7 +297,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 - May not be able to file patents in your country (if disclosed first)
 - Can still file in US/Canada (12-month grace period)
 
-### Is Solaris Framework itself copyrighted/licensed?
+### Is Phyllux Framework itself copyrighted/licensed?
 
 **YES!**
 
@@ -309,7 +310,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 - Create commercial products using framework (✅)
 
 **You must:**
-- Credit Solaris Framework and David Sproule
+- Credit Phyllux Framework and David Sproule
 - Share improvements under same license
 - Not add restrictions that contradict CC BY-SA
 
@@ -324,7 +325,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 **Because:**
 
 1. **More impact:** Helping 1,000 inventors > Keeping secret
-2. **Ecosystem:** More Solaris users = stronger community defense
+2. **Ecosystem:** More Phyllux users = stronger community defense
 3. **Legacy:** Change how innovation works > Personal profit
 4. **Fairness:** Current system is broken, this fixes it
 
@@ -340,7 +341,7 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 
 **My competitive advantage is MY inventions**, not the framework.
 
-### What about the ethical rules ("don't be a douchebag")?
+### What about the ethical rules ("act in good faith")?
 
 **Enforceable through license terms:**
 
@@ -349,25 +350,24 @@ See [LEGAL/Grace_periods_explained.md](LEGAL/Grace_periods_explained.md).
 3. **Community enforcement:** Reputation matters (no one licenses to known bad actors)
 
 **Specific violations:**
-- Price gouging customers
-- Exploiting workers
-- Environmental harm
-- Not compensating inventor fairly
+- Unfair compensation
+- Price gouging
+- Labor or environmental harm
 
-### Can I adapt Solaris for my specific field?
+### Can I adapt Phyllux for my specific field?
 
 **YES!** Encouraged!
 
 **Examples:**
-- "Solaris for Biotech" (specific to genetic sequences)
-- "Solaris for Hardware" (specific to physical devices)
-- "Solaris for Design" (specific to aesthetic innovations)
+- "Phyllux for Biotech" (specific to genetic sequences)
+- "Phyllux for Hardware" (specific to physical devices)
+- "Phyllux for Design" (specific to aesthetic innovations)
 
 **Just maintain:**
 - Core principle: Fair compensation based on mission and resources
-- Ethical framework: Don't be a douchebag
+- Ethical framework: Act in good faith
 - Open access: Free for research/education
-- Credit: Acknowledge based on Solaris Framework
+- Credit: Acknowledge based on Phyllux Framework
 
 ---
 
@@ -426,7 +426,7 @@ See [GUIDES/How_to_negotiate_licenses.md](GUIDES/How_to_negotiate_licenses.md).
 
 **Check:**
 1. [GETTING_STARTED.md](GETTING_STARTED.md) - Step-by-step setup
-2. [WHY_SOLARIS.md](WHY_SOLARIS.md) - Philosophy and problems solved
+2. [WHY_PHYLLUX.md](WHY_PHYLLUX.md) - Philosophy and problems solved
 3. [GUIDES/](GUIDES/) - Specific how-to guides
 4. [LEGAL/](LEGAL/) - Legal information
 5. [COMMUNITY/](COMMUNITY/) - Resources and support
