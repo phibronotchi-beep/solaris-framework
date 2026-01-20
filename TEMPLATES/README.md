@@ -1,4 +1,4 @@
-# Solaris Framework Templates
+# Phyllux Framework Templates
 
 Use these templates for your inventions:
 
@@ -55,6 +55,6 @@ Use these templates for your inventions:
 
 **Good luck protecting and sharing your invention!**  
 Questions? Email: phibronotchi@gmail.com  
-Framework repo: https://github.com/phibronotchi-beep/solaris-framework
+Framework repo: https://github.com/phibronotchi-beep/phyllux-framework
 
 Last updated: January 20, 2026
