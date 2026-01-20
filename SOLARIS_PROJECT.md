@@ -1,4 +1,5 @@
-# ☀️ SOLARIS PROTECTION FRAMEWORK ☀️
+PHYLLUX_PROJECT.md
+# 🌿 PHYLLUX PROTECTION FRAMEWORK 🌿
 
 ## *How These Inventions Are Protected*
 
@@ -13,10 +14,10 @@
 
 This repository establishes **permanent, timestamped, searchable prior art** for the following biomimetic inventions:
 
-1. **Phyllotactic Neural Meshing (PNM)** — Brain-computer interface electrode arrays
-2. **Golden-Angle Fractal Antenna Arrays (GAFAA)** — Advanced wireless communication systems  
-3. **PhiKey Cryptographic Protocol** — Quantum-resistant encryption based on geometric patterns
-4. **Integrated Biomimetic System (IBS)** — Combined implementation of all three technologies
+1. **Phyllux Mesh (formerly Phyllotactic Neural Meshing - PNM)** — Brain-computer interface electrode arrays
+2. **Phyllux Wave (formerly Golden-Angle Fractal Antenna Arrays - GAFAA)** — Advanced wireless communication systems  
+3. **Phyllux Vault (formerly PhiKey Cryptographic Protocol)** — Quantum-resistant encryption based on geometric patterns
+4. **Phyllux Core (formerly Integrated Biomimetic System - IBS)** — Combined implementation of all three technologies
 
 **Legal Effect:** Any subsequent patent applications claiming these inventions as novel will be rejected due to this public disclosure.
 
@@ -33,7 +34,7 @@ This repository establishes **permanent, timestamped, searchable prior art** for
 
 ✅ **Preserves Patent Rights (12 Months)**  
 → US/Canada grace period: Can still file patents until January 2027  
-→ Provisional patents filed: January 24, 2026  
+→ Provisional patents filed: mid-February 2026  
 → Conversion to utility patents: Optional based on funding/strategy
 
 ✅ **Enables Ethical Licensing**  
@@ -84,15 +85,15 @@ This repository establishes **permanent, timestamped, searchable prior art** for
 
 Licensees must agree to:
 
-1. **No Exploitation:** No price gouging, labor exploitation, or environmental harm
-2. **Proper Attribution:** Acknowledge inventor and technology source
-3. **Responsible Use:** Technology used ethically and for stated purpose
-4. **Fair Compensation:** Terms honored in good faith
-5. **Community Respect:** Support fair innovation ecosystem
+1. **Fair Compensation:** Pay inventors reasonably based on agreed terms
+2. **Responsible Pricing:** No excessive markups or gouging
+3. **Respectful Practices:** Treat employees, partners, and environment ethically
+4. **Transparency:** Acknowledge source and disclose relevant issues
+5. **Positive Impact:** Use technology in ways that benefit humanity
 
 **Violation = License termination + potential legal action**
 
-**Summary:** *"Don't be a douchebag"* is legally enforceable.
+**Summary:** Act in good faith and with integrity.
 
 ---
 
@@ -100,10 +101,10 @@ Licensees must agree to:
 
 ### **Priority: Tier 1 (Pioneer)**
 **Elon Musk's Companies:**
-- **SpaceX** (GAFAA for satellite comms, PhiKey for secure telemetry)
-- **Neuralink** (PNM for electrode arrays, reduced crosstalk)
-- **Tesla** (GAFAA for vehicle-to-vehicle comms)
-- **X/Twitter** (PhiKey for encrypted messaging)
+- **SpaceX** (Phyllux Wave for satellite comms, Phyllux Vault for secure telemetry)
+- **Neuralink** (Phyllux Mesh for electrode arrays, reduced crosstalk)
+- **Tesla** (Phyllux Wave for vehicle-to-vehicle comms)
+- **X/Twitter** (Phyllux Vault for encrypted messaging)
 
 **Terms Offered:** Low fee + patent help = Zero royalties forever  
 **Why:** World-changing missions that advance humanity > personal profit
@@ -150,28 +151,28 @@ Tier 1/3: Annual check-ins, optional collaboration
 
 ## 🧠 TECHNOLOGY OVERVIEW
 
-### **PNM (Phyllotactic Neural Meshing)**
+### **Phyllux Mesh**
 **Problem Solved:** Electrode crosstalk in brain-computer interfaces  
-**Solution:** Phyllotactic (137.508°) spacing reduces interference 30-40%  
-**Applications:** Neuralink-style BCIs, neural prosthetics, brain imaging  
-**Status:** Conceptual design validated, awaiting fabrication/testing
+**Solution:** Phyllotactic (137.508°) spacing designed to reduce interference  
+**Applications:** Brain-computer interfaces, neural prosthetics, brain imaging  
+**Status:** Conceptual design, simulation-based estimates, awaiting fabrication/testing
 
-### **GAFAA (Golden-Angle Fractal Antenna Arrays)**
+### **Phyllux Wave**
 **Problem Solved:** Traditional antenna arrays have limited bandwidth and coverage  
-**Solution:** Fractal spiral arrangements optimize signal distribution  
+**Solution:** Fractal spiral arrangements designed to optimize signal distribution  
 **Applications:** Satellite comms, 5G/6G networks, IoT, radar  
-**Status:** Simulations show 25-35% efficiency gains vs. conventional arrays
+**Status:** Simulations suggest 25-35% efficiency gains vs. conventional arrays
 
-### **PhiKey (Cryptographic Protocol)**
+### **Phyllux Vault**
 **Problem Solved:** Current crypto vulnerable to quantum computers  
-**Solution:** Geometric lattice paths based on golden ratio (hard to quantum-crack)  
+**Solution:** Geometric lattice paths based on golden ratio (theoretical resistance)  
 **Applications:** Secure communications, blockchain, government/military  
 **Status:** Theoretical framework complete, implementation in progress
 
-### **IBS (Integrated Biomimetic System)**
-**Synergy:** PNM + GAFAA + PhiKey working together  
+### **Phyllux Core**
+**Synergy:** Phyllux Mesh + Phyllux Wave + Phyllux Vault working together  
 **Example:** Secure neural interface with optimized wireless transmission  
-**Vision:** Next-generation human-machine symbiosis
+**Vision:** Next-generation human-machine symbiosis (long-term, speculative)
 
 ---
 
@@ -180,7 +181,7 @@ Tier 1/3: Annual check-ins, optional collaboration
 ### **Public (This Repository):**
 ✅ Core concepts and principles  
 ✅ High-level implementation strategies  
-✅ Toy demos and educational examples  
+✅ Educational examples and simulations  
 ✅ Key advantages and applications  
 ✅ Sufficient detail to establish prior art
 
@@ -188,9 +189,9 @@ Tier 1/3: Annual check-ins, optional collaboration
 🔒 Specific mathematical formulations  
 🔒 Optimized parameter values  
 🔒 Manufacturing specifications  
-🔒 Performance benchmarks (tested)  
+🔒 Detailed performance benchmarks  
 🔒 Integration guides and troubleshooting  
-🔒 Proprietary refinements and improvements
+🔒 Proprietary refinements
 
 **Rationale:** Enough public to block trolls, enough private to incentivize licensing.
 
@@ -199,7 +200,7 @@ Tier 1/3: Annual check-ins, optional collaboration
 ## ⚖️ LEGAL FRAMEWORK
 
 ### **Patent Strategy:**
-- **Provisional filed:** January 24, 2026 ($130-520 total cost)
+- **Provisional filing planned:** mid-February 2026 (~$350 cost)
 - **Grace period expires:** January 2027 (12 months from first disclosure)
 - **Utility patents:** Optional conversion (12 months from provisional filing)
 - **Geographic coverage:** US/Canada initially, international if funded
@@ -236,13 +237,13 @@ Tier 1/3: Annual check-ins, optional collaboration
 ## 🚀 NEXT STEPS FOR DAVID
 
 ### **Immediate (January 2026):**
-✅ File provisional patents (PNM, GAFAA, PhiKey, IBS)  
-✅ Send licensing packages to Elon's companies  
-✅ Finalize Solaris Framework documentation  
-✅ Establish community resources
+✅ Finalize public repo rebrand (SOLARIS → Phyllux)
+✅ Prepare provisional patent documents
+✅ Send licensing inquiries to potential Tier 1 partners
+✅ Establish timestamped prior art via GitHub commits
 
 ### **Short-Term (February-April 2026):**
-- Enter wellness center (February)
+- Enter wellness center (mid-February)
 - Await licensing responses
 - Begin computational validation (simulations)
 - Build inventor community
@@ -251,13 +252,13 @@ Tier 1/3: Annual check-ins, optional collaboration
 - Negotiate licensing agreements
 - Use revenue to fund utility patents (if needed)
 - Prototype/fabrication (if funded)
-- Expand Solaris ecosystem
+- Expand Phyllux ecosystem
 
 ### **Long-Term (2027+):**
 - Convert provisionals to utilities (if strategic)
 - Scale licensing to more companies
 - Publish research papers (with licensed partners)
-- Become case study for Solaris Framework success
+- Become case study for Phyllux Framework success
 
 ---
 
@@ -265,9 +266,9 @@ Tier 1/3: Annual check-ins, optional collaboration
 
 **Want to protect YOUR inventions using this model?**
 
-Visit: **[github.com/phibronotchi-beep/solaris-framework](#)**
+Visit: **[github.com/phibronotchi-beep/phyllux-framework](#)**
 
-The **Solaris Framework** provides:
+The **Phyllux Framework** provides:
 - Templates for establishing prior art (like this)
 - 4-tier licensing model (copy and customize)
 - Guides for patents, negotiation, enforcement
@@ -296,7 +297,7 @@ Please include:
 **Response time:** 48-72 hours
 
 ### **Technical Questions:**
-Same email, subject: "Technical Inquiry - [PNM/GAFAA/PhiKey/IBS]"
+Same email, subject: "Technical Inquiry - [Phyllux Mesh/Phyllux Wave/Phyllux Vault/Phyllux Core]"
 
 ### **Press/Media:**
 Same email, subject: "Media Inquiry"
@@ -334,14 +335,14 @@ Secure fair licensing deals with companies that value innovation and compensate 
 Prove that open prior art + ethical licensing > traditional patent hoarding.
 
 **Long-Term:**  
-Inspire other inventors to adopt Solaris model, collectively reform broken IP system.
+Inspire other inventors to adopt Phyllux model, collectively reform broken IP system.
 
 **Ultimate Goal:**  
 A world where knowledge flows freely to accelerate discovery, and compensation flows fairly to reward inventors—where the best ideas win because they help humanity, not because they're locked behind paywalls.
 
 ---
 
-## ⚡ THE SOLARIS PROMISE
+## ⚡ THE PHYLLUX PROMISE
 
 **To Researchers:** Your work will never be blocked by paywalls. Use freely, cite properly.
 
@@ -355,23 +356,23 @@ A world where knowledge flows freely to accelerate discovery, and compensation f
 
 ---
 
-**☀️ Protected by prior art. Licensed with ethics. Built for the future. ☀️**
+**🌿 Protected by prior art. Licensed with ethics. Built for the future. 🌿**
 
 ---
 
-*"The goal is not to bury knowledge in patents, but to illuminate the world with it—while ensuring those who bring light are not left in darkness."*  
-— David Sproule, Inventor & Creator of Solaris Framework
+*"The goal is not to bury knowledge in patents, but to amplify the world with it—while ensuring those who bring light are not left in darkness."*  
+— David Sproule, Inventor & Creator of Phyllux Framework
 
 ---
 
-**Last Updated:** January 14, 2026  
-**Framework Version:** 1.0  
-**Patent Status:** Provisionals filed (January 24, 2026)  
+**Last Updated:** January 20, 2026  
+**Framework Version:** 2.0  
+**Patent Status:** Provisionals pending (mid-February 2026)  
 **Licensing Status:** Open for inquiries  
 **Community:** Growing
 
 **Repository:** github.com/phibronotchi-beep/biomimetic-inventions-public  
-**Framework:** github.com/phibronotchi-beep/solaris-framework  
+**Framework:** github.com/phibronotchi-beep/phyllux-framework  
 **Contact:** phibronotchi@gmail.com
 
-**☀️ LET THE LIGHT WIN ☀️**
+**🌿 NATURE'S PATTERNS, AMPLIFIED BY LIGHT 🌿**
