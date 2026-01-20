@@ -8,7 +8,7 @@
 
 **[Clear, descriptive title of your invention]**
 
-Example: "Phyllotactic Neural Meshing (PNM) - Biomimetic Brain-Computer Interface Electrode Array"
+Example: "Phyllux Mesh - Biomimetic Brain-Computer Interface Electrode Array"
 
 ---
 
@@ -27,7 +27,7 @@ Example: "Phyllotactic Neural Meshing (PNM) - Biomimetic Brain-Computer Interfac
 Brief summary of what your invention is and what problem it solves.
 
 **Example:**
-"PNM is a brain-computer interface electrode array that uses phyllotactic patterns and the golden angle (137.508°) to optimize electrode spacing. Unlike conventional grid arrays, PNM reduces signal crosstalk by 30%, improves signal quality by 40%, and minimizes tissue damage through biomimetic spacing. The design is scalable from 32 to 10,000+ electrodes and manufacturable using existing photolithography techniques."
+"Phyllux Mesh is a brain-computer interface electrode array that uses phyllotactic patterns and the golden angle (137.508°) to optimize electrode spacing. Unlike conventional grid arrays, Phyllux Mesh is designed to reduce signal crosstalk, improve signal quality, and minimize tissue damage through biomimetic spacing. The design is scalable from 32 to 10,000+ electrodes and manufacturable using existing photolithography techniques."
 
 **Your abstract:**
 [Write 2-4 sentences describing your invention, its key advantage, and primary application]
@@ -62,7 +62,7 @@ What currently exists in this space? How is your invention different/better?
 Explain the fundamental principle or mechanism of your invention.
 
 **Example:**
-"PNM arranges electrodes in a phyllotactic spiral pattern using the golden angle (137.508°). Each successive electrode is placed at this angle relative to the previous one, creating an optimal packing pattern that mirrors natural structures like sunflower seed heads."
+"Phyllux Mesh arranges electrodes in a phyllotactic spiral pattern using the golden angle (137.508°). Each successive electrode is placed at this angle relative to the previous one, creating an optimal packing pattern that mirrors natural structures like sunflower seed heads."
 
 **Your core concept:**
 [Explain the basic idea in 2-4 sentences. What is the key insight that makes your invention work?]
@@ -103,14 +103,14 @@ Step-by-step explanation of operation or construction.
 Specific, quantifiable benefits compared to existing solutions.
 
 **Example:**
-- **40% better signal quality:** Reduced crosstalk due to optimal spacing
-- **30% less tissue damage:** Biomimetic pattern reduces inflammatory response
+- **Improved signal quality:** Simulations suggest reduction in crosstalk
+- **Better biocompatibility:** Biomimetic pattern designed to reduce inflammatory response
 - **Scalable:** Works from 32 to 10,000+ electrodes
 - **Cost-effective:** Uses existing manufacturing processes
-- **Proven principle:** Based on 400M years of evolutionary optimization
+- **Proven principle:** Based on natural optimization patterns
 
 **Your advantages:**
-- [Advantage 1]: [Quantify if possible - e.g., "30% faster", "50% cheaper"]
+- [Advantage 1]: [Quantify if possible - e.g., "simulations suggest 30% improvement"]
 - [Advantage 2]: [Explain why this matters]
 - [Advantage 3]: [Compare to alternatives]
 - [Add more as needed]
@@ -125,164 +125,96 @@ What is your invention made from?
 **Example:**
 - Substrate: Polyimide (flexible, biocompatible)
 - Electrodes: Platinum-iridium alloy
-- Insulation: Parylene-C coating
-- Dimensions: 5mm × 5mm active area, 50µm thickness
+- Insulation: Parylene-C
 
 **Your materials:**
-[List key materials, dimensions, specifications]
+- [Material 1]: [Purpose]
+- [Material 2]: [Purpose]
+- [Add more as needed]
 
-### Parameters (if applicable)
-Key numbers, measurements, or settings.
-
-**Example:**
-- Golden angle: 137.508° (exact)
-- Electrode count: 64-256 (typical), scalable to 10,000+
-- Electrode diameter: 30µm (center) to 100µm (periphery)
-- Inter-electrode spacing: 200µm minimum
-- Operating frequency: 0.1 Hz - 10 kHz
-
-**Your parameters:**
-[List critical numbers, ranges, thresholds, etc.]
-
-### Manufacturing/Construction Method
-How is your invention made or built?
+### Dimensions/Sizes (if applicable)
+Key measurements.
 
 **Example:**
-1. Spin-coat polyimide on sacrificial wafer
-2. Photolithography to pattern electrode locations
-3. E-beam evaporation of Pt-Ir
-4. Lift-off process for patterning
-5. Deposit Parylene-C insulation
-6. Laser ablate electrode sites
-7. Release from wafer
-8. Mount on connector
+- Array diameter: 1-10 cm (scalable)
+- Electrode size: 50-200 μm
+- Inter-electrode distance: Variable based on golden angle
 
-**Your method:**
-[Describe key manufacturing steps OR, if software, describe architecture/algorithms]
+**Your dimensions:**
+- [Measurement 1]: [Value/range]
+- [Measurement 2]: [Value/range]
+
+### Performance Metrics
+Quantifiable capabilities.
+
+**Example:**
+- Signal-to-noise ratio: Simulations suggest 40% improvement
+- Crosstalk reduction: Simulations suggest 30% reduction
+- Operational lifespan: Designed for long-term implantation
+
+**Your metrics:**
+- [Metric 1]: [Value/range]
+- [Metric 2]: [Value/range]
+
+### Required Tools/Equipment
+What is needed to build/use it?
+
+**Example:**
+- Photolithography equipment
+- 3D printer for prototypes
+- Neural recording hardware for testing
+
+**Your requirements:**
+- [Tool 1]
+- [Tool 2]
 
 ---
 
-## APPLICATIONS
+## VARIANTS AND EMBODIMENTS
 
-### Primary Application
-Main use case for your invention.
-
-**Example:**
-"Medical brain-computer interfaces for paralysis patients - restoring communication and motor control."
-
-**Your primary application:**
-[What is this invention mainly for?]
-
-### Secondary Applications
-Other potential uses.
+### Primary Embodiment
+Main version of your invention.
 
 **Example:**
-- Research: High-resolution brain mapping
-- Consumer: Gaming and entertainment BCIs
-- Military: Enhanced human-machine interfaces
-- Veterinary: Animal behavior research
+"Flexible 1,024-electrode array for human BCI applications"
 
-**Your secondary applications:**
-1. [Application 1]
-2. [Application 2]
-3. [Application 3]
+**Your primary:**
+[Describe main version]
 
-### Market Potential
-Who would pay for this? How big is the opportunity?
+### Alternative Embodiments
+Variations or other implementations.
 
 **Example:**
-"10M+ people with neurological conditions (stroke, spinal injury, ALS) are potential users. BCI market projected at $5B by 2030, growing to $50B+ by 2050. Research market additional $500M+/year in electrode sales."
+1. Rigid silicon version for animal research
+2. Wireless version with integrated antenna
+3. Micro-scale version for single-neuron recording
 
-**Your market:**
-[Who are the users? How many? What's the market size?]
+**Your alternatives:**
+1. [Variant 1]
+2. [Variant 2]
+3. [Add more as needed]
 
 ---
 
-## NOVEL ASPECTS (Claims)
+## TESTING AND VALIDATION
 
-These are the specific things that are NEW about your invention - what you'd claim in a patent.
-
-### Claim 1 (Main claim - broadest)
-**Example:**
-"An electrode array for brain-computer interfaces, wherein electrodes are positioned according to a phyllotactic pattern using the golden angle (137.508°) to optimize spacing and minimize crosstalk."
-
-**Your main claim:**
-[The most fundamental novel aspect - keep it broad but specific enough to be meaningful]
-
-### Claim 2 (Dependent claim)
-**Example:**
-"The electrode array of Claim 1, wherein electrode positions are calculated using the formula r = a√n, θ = n × 137.508°, where n is the electrode index."
-
-**Your claim 2:**
-[A more specific version of Claim 1, adding one key feature]
-
-### Claim 3 (Dependent claim)
-**Example:**
-"The electrode array of Claim 1, wherein electrode sizes vary logarithmically with distance from center, with smaller electrodes near center and larger electrodes at periphery."
-
-**Your claim 3:**
-[Another specific aspect]
-
-### Additional Claims
-[Add more claims as needed - each should highlight a specific novel feature]
-
----
-
-## PRIOR ART SEARCH
-
-### Did you search for similar inventions?
-☐ Yes ☐ No
-
-**If yes, where did you search?**
-- [ ] Google Patents
-- [ ] USPTO website
-- [ ] Academic papers (Google Scholar, PubMed)
-- [ ] Industry publications
-- [ ] GitHub/open source repositories
-
-**What did you find?**
-[Summarize: "Found X similar inventions, but none use the golden angle for electrode spacing" or "No prior art found for this specific approach"]
-
-### Most Similar Prior Art
-List 2-3 most similar existing inventions and explain how yours is different.
+### Methods
+How was it tested?
 
 **Example:**
-1. **Michigan Array (USPTO #5,215,088):** Grid-based array. DIFFERENCE: My invention uses phyllotactic spiral, not grid.
-2. **Utah Array (USPTO #5,215,088):** 3D grid array. DIFFERENCE: My invention is 2D phyllotactic pattern with biocompatible spacing.
+- Finite element simulations using COMSOL Multiphysics
+- Bench testing with phantom brain tissue
+- In vitro testing with cell cultures
 
-**Your comparison:**
-1. [Prior art 1]: DIFFERENCE: [How yours is different]
-2. [Prior art 2]: DIFFERENCE: [How yours is different]
-3. [Prior art 3]: DIFFERENCE: [How yours is different]
+**Your methods:**
+- [Method 1]
+- [Method 2]
 
----
-
-## FIGURES AND DIAGRAMS
-
-**Note:** Include diagrams, schematics, photos, or drawings if possible. Visual documentation strengthens prior art.
-
-### Figure 1: [Title]
-[Attach image or describe: "Schematic showing electrode positions in phyllotactic spiral pattern"]
-
-### Figure 2: [Title]
-[Attach image or describe: "Comparison of crosstalk: grid array (left) vs. phyllotactic array (right)"]
-
-### Figure 3: [Title]
-[Continue as needed]
-
-**Tip:** Even rough sketches are valuable for prior art. Don't need professional CAD drawings.
-
----
-
-## EXPERIMENTAL VALIDATION (if available)
-
-### Have you tested this invention?
-☐ Yes ☐ No ☐ In Progress
-
-**If yes, what were the results?**
+### Results
+What were the outcomes?
 
 **Example:**
-"Simulated crosstalk using COMSOL finite element analysis. Results showed 30% reduction in crosstalk compared to grid arrays. Physical prototype scheduled for animal testing Q2 2026."
+"Simulations show 30% crosstalk reduction compared to grid arrays. In vitro tests confirm improved biocompatibility."
 
 **Your results:**
 [Describe any testing, simulations, prototypes, or experiments performed]
@@ -312,7 +244,7 @@ List 2-3 most similar existing inventions and explain how yours is different.
 
 ## LICENSING INFORMATION
 
-**This invention is available for licensing under the Solaris 4-Tier System:**
+**This invention is available for licensing under the Phyllux 4-Tier System:**
 
 - **Tier 4 (FREE):** Research, education, personal use - Must cite this disclosure
 - **Tier 2 ($10K-100K + 1-3% royalty):** Mission-aligned companies (climate, medical, space)
@@ -389,7 +321,7 @@ List any papers, patents, or sources cited in this disclosure.
    - Make it public (required for prior art)
    - Upload this file
    - GitHub timestamp = proof of disclosure date
-3. **Add Solaris license:** Copy `LICENSE_Solaris_4tier.md` to your repo
+3. **Add Phyllux license:** Copy `LICENSE_Phyllux_4tier.md` to your repo
 4. **Share widely:**
    - Post link on Twitter/LinkedIn/Reddit
    - Email to relevant research groups
@@ -416,7 +348,7 @@ List any papers, patents, or sources cited in this disclosure.
 ## NEED HELP?
 
 **Questions about filling out this template?**
-- Open an issue in the Solaris Framework repository
+- Open an issue in the Phyllux Framework repository
 - Email: phibronotchi@gmail.com
 - See FAQ.md for common questions
 
@@ -425,11 +357,11 @@ List any papers, patents, or sources cited in this disclosure.
 - See COMMUNITY/Resources.md for affordable options
 
 **Want to see examples?**
-- Check EXAMPLES/ directory in Solaris Framework
+- Check EXAMPLES/ directory in Phyllux Framework
 - Look at David's biomimetic inventions repository
 
 ---
 
 **Remember:** The best prior art is CLEAR, DETAILED, and PUBLIC. Don't worry about perfection - just make sure someone skilled in your field could understand and potentially reproduce your invention based on this document.
 
-**You've got this! Welcome to Solaris.** ☀️
+**You've got this! Welcome to Phyllux.** 🌿
