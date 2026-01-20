@@ -1,4 +1,5 @@
-# ⚖️ The Solaris Framework ⚖️
+README.md
+# ⚖️ The Phyllux Framework ⚖️
 ## Fair Licensing for Independent Inventors
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
@@ -11,7 +12,7 @@
 
 ## 🌟 What Is This?
 
-The **Solaris Framework** is a complete IP protection and licensing system designed for **independent inventors** who want to:
+The **Phyllux Framework** is a complete IP protection and licensing system designed for **independent inventors** who want to:
 
 - ✅ **Protect their inventions** without expensive lawyers
 - ✅ **Share their work** with researchers and educators (free tier)
@@ -49,7 +50,7 @@ The **Solaris Framework** is a complete IP protection and licensing system desig
 
 ### There Has to Be a Better Way
 
-**The Solaris Framework provides:**
+**The Phyllux Framework provides:**
 - 📝 Templates to establish prior art (blocks trolls, costs $0)
 - 🤝 Tiered licensing (fair terms based on mission and resources)
 - 🛡️ Collective defense (community protects each other)
@@ -90,7 +91,7 @@ The **Solaris Framework** is a complete IP protection and licensing system desig
 - `PATENTS_template.md` - Patent rights reservation (preserve your options)
 - `COPYRIGHT_template` - Copyright notice (protect your docs/code)
 - `INVENTORSHIP_DECLARATION_template.md` - Legal declaration of inventorship
-- `SOLARIS_LICENSE_template.md` - 4-tier licensing model (the core framework)
+- `PHYLLUX_LICENSE_template.md` - 4-tier licensing model (the core framework)
 - `README_template.md` - Homepage for your invention repo
 
 **Guides (Step-by-Step):**
@@ -120,11 +121,11 @@ The **Solaris Framework** is a complete IP protection and licensing system desig
 
 ```bash
 # Clone this repository
-git clone https://github.com/[USERNAME]/solaris-framework.git
-cd solaris-framework
+git clone https://github.com/phibronotchi-beep/phyllux-framework.git
+cd phyllux-framework
 ```
 
-Or **[Download ZIP](https://github.com/[USERNAME]/solaris-framework/archive/refs/heads/main.zip)**
+Or **[Download ZIP](https://github.com/phibronotchi-beep/phyllux-framework/archive/refs/heads/main.zip)**
 
 ### Step 2: Copy Templates to Your Invention Repo
 
@@ -135,7 +136,7 @@ cd my-invention
 git init
 
 # Copy all templates
-cp ../solaris-framework/TEMPLATES/* .
+cp ../phyllux-framework/TEMPLATES/* .
 ```
 
 ### Step 3: Fill in the Blanks
@@ -153,7 +154,7 @@ Open each template and replace:
 
 ```bash
 git add .
-git commit -m "Initial disclosure under Solaris Framework"
+git commit -m "Initial disclosure under Phyllux Framework"
 git push origin main
 ```
 
@@ -167,7 +168,7 @@ git push origin main
 
 ## 🎓 The 4-Tier Licensing Model
 
-The heart of Solaris is the **tiered approach** where terms depend on **mission and resources**:
+The heart of Phyllux is the **tiered approach** where terms depend on **mission and resources**:
 
 ### Tier 1: Pioneer (Best Terms)
 **Who:** Companies risking everything to change the world  
@@ -190,10 +191,10 @@ The heart of Solaris is the **tiered approach** where terms depend on **mission 
 ### Tier 4: Free (No Cost)
 **Who:** Non-commercial use  
 **Examples:** Researchers, students, hobbyists, personal projects  
-**Terms:** $0 forever, just cite me and share knowledge  
+**Terms:** $0 forever, just cite the work and share knowledge  
 **Philosophy:** Knowledge should be free for those seeking wisdom.
 
-**See [WHY_SOLARIS.md](WHY_SOLARIS.md) for the full philosophy.**
+**See [WHY_PHYLLUX.md](WHY_PHYLLUX.md) for the full philosophy.**
 
 ---
 
@@ -202,27 +203,14 @@ The heart of Solaris is the **tiered approach** where terms depend on **mission 
 ### For Inventors (Using This Framework)
 
 - **[Getting Started](GETTING_STARTED.md)** - Step-by-step setup guide
-- **[Why Solaris?](WHY_SOLARIS.md)** - Philosophy and problems solved
+- **[Why Phyllux?](WHY_PHYLLUX.md)** - Philosophy and problems solved
 - **[FAQ](FAQ.md)** - Common questions answered
-
-### Templates
-
-- **[Template Overview](TEMPLATES/README.md)** - What each template does
-- **[Prior Art Template](TEMPLATES/PRIOR_ART_template.md)** - Establish public disclosure
-- **[Invention Disclosure Template](TEMPLATES/INVENTION_DISCLOSURE_template.md)** - Technical specs
-- **[Solaris License Template](TEMPLATES/SOLARIS_LICENSE_template.md)** - 4-tier licensing
-
-### Guides
-
-- **[Establish Prior Art](GUIDES/How_to_establish_prior_art.md)** - Protect yourself for $0
-- **[File Patents](GUIDES/How_to_file_patents.md)** - DIY or with agent
-- **[Negotiate Licenses](GUIDES/How_to_negotiate_licenses.md)** - Get fair terms
-- **[Build Community](GUIDES/How_to_build_community.md)** - Attract users
-- **[Defend Against Trolls](GUIDES/How_to_defend_against_trolls.md)** - Collective defense
+- **[Templates](TEMPLATES/)** - Ready-to-use legal docs
+- **[Guides](GUIDES/)** - How-to for patents, licenses, etc.
 
 ### Legal
 
-- **[Patent Law Basics](LEGAL/Understanding_patent_law.md)** - What you need to know
+- **[Patent Basics](LEGAL/Understanding_patents.md)** - What inventors need to know
 - **[Grace Periods](LEGAL/Grace_periods_explained.md)** - US, Canada, international
 - **[Copyright Basics](LEGAL/Understanding_copyright.md)** - Protect your work
 - **[International Filing](LEGAL/International_filing.md)** - When and how
@@ -240,13 +228,13 @@ The heart of Solaris is the **tiered approach** where terms depend on **mission 
 
 ### The Rules (Simple & Clear)
 
-**If you use Solaris, you agree to:**
+**If you use Phyllux, you agree to:**
 
-1. **Don't Be a Douchebag**
+1. **Act in Good Faith**
    - Compensate inventors fairly
    - Price products reasonably
-   - Treat workers well
-   - Respect the planet
+   - Treat workers and partners with respect
+   - Respect the environment
 
 2. **Share Prosperity**
    - As you succeed, inventor prospers
@@ -279,12 +267,12 @@ The heart of Solaris is the **tiered approach** where terms depend on **mission 
 
 ## 🌍 Real-World Examples
 
-### Successful Solaris Inventions
+### Successful Phyllux Inventions
 
 **Original Invention (by David Sproule):**
-- **PNM, GAFAA, PhiKey, IBS** - Biomimetic technologies
+- **Phyllux Mesh, Phyllux Wave, Phyllux Vault, Phyllux Core** - Biomimetic technologies
 - Repository: https://github.com/phibronotchi-beep/biomimetic-inventions-public
-- Status: Prior art established Jan 2, 2025 | Patents pending
+- Status: Prior art established January 2026 | Patents pending
 - Model: All 4 tiers active, multiple licenses in negotiation
 
 *Your success story could be here! Submit to: [COMMUNITY/Success_stories.md](COMMUNITY/Success_stories.md)*
@@ -294,7 +282,7 @@ The heart of Solaris is the **tiered approach** where terms depend on **mission 
 ## 📊 Statistics
 
 **Framework Adoption (as of January 2026):**
-- Inventors using Solaris: **1** (we're just starting!)
+- Inventors using Phyllux: **1** (we're just starting!)
 - Tier 4 (free) users: **Growing**
 - Active licenses: **TBD**
 - Total inventions protected: **3 technologies + 1 integrated system**
@@ -315,7 +303,7 @@ A: No for basic setup. Yes for patent filing (or DIY if you're brave). See [guid
 A: Not in US/Canada (12-month grace period). Yes in most other countries. See [grace periods guide](LEGAL/Grace_periods_explained.md).
 
 **Q: What if a company uses my tech without licensing?**  
-A: You can sue for infringement (once patents filed). Community can help with defense fund. See [defending against trolls](GUIDES/How_to_defend_against_trolls.md).
+A: You can pursue contract enforcement. Community can help with defense. See [defending against misuse](GUIDES/How_to_defend_against_trolls.md).
 
 **Q: Can I customize the tiers?**  
 A: Yes! The templates are starting points. Adapt to your situation. Core philosophy should stay: fair terms based on mission and resources.
@@ -345,7 +333,7 @@ Ways to contribute:
 
 ## 📜 License for This Framework
 
-**The Solaris Framework itself is licensed under:**
+**The Phyllux Framework itself is licensed under:**
 
 **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
 
@@ -356,7 +344,7 @@ Ways to contribute:
 - ✅ Create commercial products using this framework
 
 **Under these conditions:**
-- 📝 **Attribution:** Credit the Solaris Framework and original creator (David Sproule)
+- 📝 **Attribution:** Credit the Phyllux Framework and original creator (David Sproule)
 - 🔄 **Share-Alike:** If you improve the framework, share improvements under same license
 - 🚫 **No Restrictions:** Don't add legal or technological restrictions that contradict this license
 
@@ -378,7 +366,7 @@ Ways to contribute:
 - Every researcher who will use Tier 4 free access
 - Every mission-aligned company who will license fairly
 - Every patent agent who helps inventors affordably
-- Every community member who defends against trolls
+- Every community member who defends against misuse
 - Every person who believes in shared prosperity
 
 ---
@@ -396,7 +384,7 @@ Ways to contribute:
 
 **Follow the Movement:**
 - X/Twitter: @Phibronotchi (framework updates)
-- GitHub: https://github.com/[USERNAME]/solaris-framework
+- GitHub: https://github.com/phibronotchi-beep/phyllux-framework
 
 ---
 
@@ -408,11 +396,11 @@ Ways to contribute:
 
 - Inventors don't have to starve or sell out
 - Companies don't have to hoard knowledge
-- Communities can defend each other against predators
+- Communities can defend each other against misuse
 - Prosperity can be shared, not zero-sum
 - Humans can cooperate at scale
 
-**The Solaris Framework is a model for 21st-century innovation:**
+**The Phyllux Framework is a model for 21st-century innovation:**
 
 - Open where it should be (education, research)
 - Protected where needed (against trolls, bad actors)
@@ -428,16 +416,16 @@ Ways to contribute:
 ---
 
 ```
-Like a sunflower turning toward the sun,
-Every seed arranged in spirals of golden light,
+Like a sunflower turning toward the light,
+Every seed arranged in spirals of golden ratio,
 Each contributing to the whole,
 None competing, all thriving—
 
 This is how we build the future.
 
-The sun is rising.
+The light is amplifying.
 
-Welcome to Solaris.
+Welcome to Phyllux.
 ```
 
 ---
@@ -446,16 +434,16 @@ Welcome to Solaris.
 
 ### [→ Get Started Now](GETTING_STARTED.md)
 ### [→ Download Templates](TEMPLATES/)
-### [→ Read the Philosophy](WHY_SOLARIS.md)
+### [→ Read the Philosophy](WHY_PHYLLUX.md)
 ### [→ Join the Community](COMMUNITY/)
 
 ---
 
-**The Solaris Framework**  
+**The Phyllux Framework**  
 *Fair licensing for independent inventors*
 
 **Version:** 1.0  
-**Released:** January 13, 2026  
+**Released:** January 20, 2026  
 **Status:** Active & Growing  
 **License:** CC BY-SA 4.0
 
