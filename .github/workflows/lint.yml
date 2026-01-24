@@ -1,0 +1,48 @@
+name: Documentation Lint
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Check markdown links (internal only)
+      run: |
+        echo "Checking internal markdown links..."
+        # Simple check - verify referenced files exist
+        # This is a basic check; more sophisticated tools can be added later
+        find . -name "*.md" -type f | while read file; do
+          echo "Checking $file"
+          # Extract relative markdown links (not external URLs)
+          grep -oP '\]\([^h#][^)]+\)' "$file" | sed 's/\]\(//;s/)$//' | while read link; do
+            # Skip anchor links
+            if [[ "$link" == \#* ]]; then
+              continue
+            fi
+            # Resolve relative path
+            dir=$(dirname "$file")
+            target="$dir/$link"
+            if [ ! -f "$target" ] && [ ! -d "$target" ]; then
+              echo "⚠️  Warning: Broken link in $file: $link"
+            fi
+          done
+        done || true
+      continue-on-error: true
+      
+    - name: Check for common issues
+      run: |
+        echo "Checking for common documentation issues..."
+        # Check for TODO/FIXME in committed files (warn only)
+        if grep -r "TODO\|FIXME" --include="*.md" .; then
+          echo "⚠️  Warning: TODO/FIXME comments found (review recommended)"
+        fi || true
+      continue-on-error: true

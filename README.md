@@ -29,6 +29,8 @@ This repository defines ethical, licensing, and collaboration structures for ind
 - Ready to use templates? → See [TEMPLATES/](TEMPLATES/)
 - Exploring the structure? → Enter the [Seed Hub](phyllux-seed/index.md)
 
+**Framework documentation:** [DISCLOSURE.md](DISCLOSURE.md) | [PHYLUX_SPINE.md](PHYLUX_SPINE.md) | [SECURITY.md](SECURITY.md) | [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ---
 
 ## 🌿 PHYLLOTACTIC FRACTAL NAVIGATION 🌿

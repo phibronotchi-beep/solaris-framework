@@ -1,0 +1,28 @@
+version: 2
+updates:
+  # Enable version updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+
+  # Enable version updates for pip (if requirements.txt is added)
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    # Only enable if requirements.txt exists
+    # Uncomment when Python dependencies are added:
+    # target-branch: "main"
+
+  # Enable version updates for npm (if package.json is added)
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 5
+    # Only enable if package.json exists
+    # Uncomment when Node.js dependencies are added:
+    # target-branch: "main"
