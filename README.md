@@ -8,10 +8,13 @@ README.md
 
 ---
 
-## 📍 Start Here
+## Overview
 
 **What is this repository?**  
 This repository defines ethical, licensing, and collaboration structures for independent inventors. It provides templates, guides, and a framework for protecting intellectual property without requiring expensive legal resources.
+
+**Repository Purpose:**  
+The Phyllux Framework is a complete IP protection and licensing system designed for independent inventors who want to protect their inventions without expensive lawyers, share their work with researchers and educators (free tier), get fair compensation from companies, build community around shared innovation, defend together against patent trolls, and advance humanity while sustaining themselves.
 
 **Who is this for?**  
 - Independent inventors seeking affordable IP protection
@@ -177,7 +180,9 @@ The **Phyllux Framework** is a complete IP protection and licensing system desig
 
 ---
 
-## 🚀 Quick Start (5 Minutes)
+## Quick Start
+
+**Get started in 5 minutes:**
 
 ### Step 1: Download the Framework
 
@@ -301,7 +306,43 @@ The heart of Phyllux is the **tiered approach** where terms depend on **mission 
 
 ---
 
-## 📚 Documentation
+## Repository Structure
+
+```
+phyllux-framework/
+├── README.md                    # This file
+├── GETTING_STARTED.md          # Step-by-step setup guide
+├── WHY_PHYLLUX.md              # Philosophy and rationale
+├── FAQ.md                      # Frequently asked questions
+├── PHYLLUX_PROJECT.md          # Example implementation
+├── CONTACT.md                  # Contact information
+├── CONTRIBUTING.md             # Contribution guidelines
+├── SECURITY.md                 # Security policy
+├── DISCLOSURE.md               # Disclosure framework
+├── PHYLUX_SPINE.md             # Ecosystem spine
+├── LICENSE                     # CC BY-SA 4.0 license
+│
+├── TEMPLATES/                  # Ready-to-use legal templates
+│   ├── TEMPLATE_Prior_Art.md
+│   ├── TEMPLATE_License_4Tier.md
+│   └── TEMPLATE_License_Agreement.md
+│
+├── phyllux-seed/               # 121-node central hub
+│   ├── index.md                # Central navigation
+│   ├── tier-1-pioneer.md       # Tier 1 documentation
+│   ├── tier-2-mission.md       # Tier 2 documentation
+│   ├── tier-3-commercial.md    # Tier 3 documentation
+│   ├── tier-4-free.md          # Tier 4 documentation
+│   └── [other node files]
+│
+├── scripts/                    # Automation scripts
+│   ├── path-explorer.py        # Phyllotactic path generation
+│   └── invention-generator.js  # DQ-checked invention generation
+│
+└── [spiral branches]/         # Wave, Mesh, Vault, Core branches
+```
+
+## Documentation
 
 ### For Inventors (Using This Framework)
 
@@ -309,21 +350,20 @@ The heart of Phyllux is the **tiered approach** where terms depend on **mission 
 - **[Why Phyllux?](WHY_PHYLLUX.md)** - Philosophy and problems solved
 - **[FAQ](FAQ.md)** - Common questions answered
 - **[Templates](TEMPLATES/)** - Ready-to-use legal docs
-- **[Guides](GUIDES/)** - How-to for patents, licenses, etc.
+- **[Prior Art Strategy](phyllux-seed/prior-art-strategy.md)** - How-to for establishing prior art
+- **[Licensing Negotiation](phyllux-seed/licensing-negotiation.md)** - How-to for negotiating licenses
 
-### Legal
+### Legal & IP Protection
 
-- **[Patent Basics](LEGAL/Understanding_patents.md)** - What inventors need to know
-- **[Grace Periods](LEGAL/Grace_periods_explained.md)** - US, Canada, international
-- **[Copyright Basics](LEGAL/Understanding_copyright.md)** - Protect your work
-- **[International Filing](LEGAL/International_filing.md)** - When and how
+- **[Prior Art Strategy](phyllux-seed/prior-art-strategy.md)** - Understanding prior art and grace periods
+- **[Legal Frameworks](phyllux-seed/node-13-legal.md)** - Patent basics, copyright, international filing
+- **[Risk Mitigation](phyllux-seed/node-34-risk.md)** - Protecting your inventions
 
 ### Community
 
-- **[Code of Conduct](COMMUNITY/Code_of_conduct.md)** - How we treat each other
-- **[Contributing](COMMUNITY/How_to_contribute.md)** - Improve the framework
-- **[Success Stories](COMMUNITY/Success_stories.md)** - Inventors who used this
-- **[Resources](COMMUNITY/Resources.md)** - Patent agents, lawyers, funding
+- **[Contributing](CONTRIBUTING.md)** - How to improve the framework
+- **[Security Policy](SECURITY.md)** - Reporting vulnerabilities
+- **[Contact](CONTACT.md)** - Get in touch
 
 ---
 
@@ -378,7 +418,7 @@ The heart of Phyllux is the **tiered approach** where terms depend on **mission 
 - Status: Prior art established January 2026 | Patents pending
 - Model: All 4 tiers active, multiple licenses in negotiation
 
-*Your success story could be here! Submit to: [COMMUNITY/Success_stories.md](COMMUNITY/Success_stories.md)*
+*Your success story could be here! Submit via [GitHub Issues](https://github.com/phibronotchi-beep/phyllux-framework/issues) or email phibronotchi@gmail.com*
 
 ---
 
@@ -387,7 +427,7 @@ The heart of Phyllux is the **tiered approach** where terms depend on **mission 
 **Framework Adoption (as of January 2026):**
 - Inventors using Phyllux: **1** (we're just starting!)
 - Tier 4 (free) users: **Growing**
-- Active licenses: **TBD**
+- Active licenses: **In negotiation**
 - Total inventions protected: **3 technologies + 1 integrated system**
 
 **Help us grow these numbers!**
@@ -430,7 +470,7 @@ Ways to contribute:
 - 🎓 Add resources (patent agents, lawyers, tools)
 - 📣 Spread the word (tell other inventors)
 
-**See [COMMUNITY/How_to_contribute.md](COMMUNITY/How_to_contribute.md) for details.**
+**See [CONTRIBUTING.md](CONTRIBUTING.md) for details.**
 
 ---
 
@@ -474,20 +514,33 @@ Ways to contribute:
 
 ---
 
-## 📞 Contact & Community
+## Integration
+
+**How this connects to other Phyllux repositories:**
+
+- **[biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)**: Example implementation of this framework (Phyllux Mesh, Wave, Vault, Core)
+- **[phyllux-inventions-wip](https://github.com/phibronotchi-beep/phyllux-inventions-wip)**: Work-in-progress inventions using this framework
+
+**Cross-repository consistency:**
+- All repos use consistent terminology (Phyllux, not SOLARIS)
+- Contact information identical across ecosystem
+- Licensing framework referenced where patent/IP discussed
+- Shared geometric principles (137.508° golden angle)
+
+## Contact
+
+- **Inventor:** David Edward Sproule
+- **Email:** phibronotchi@gmail.com
+- **GitHub:** @phibronotchi-beep
+- **Twitter/X:** @Phibronotchi
+- **Location:** Edmonton, Alberta, Canada
 
 **Framework Questions:**  
-- GitHub Issues: [Report problems or suggest features]
+- GitHub Issues: [Report problems or suggest features](https://github.com/phibronotchi-beep/phyllux-framework/issues)
 - Email: phibronotchi@gmail.com
 
 **Community:**  
-- Discussions: [GitHub Discussions] (coming soon)
-- Community Forum: [Link] (coming soon)
-- Success Stories: Submit to COMMUNITY/Success_stories.md
-
-**Follow the Movement:**
-- X/Twitter: @Phibronotchi (framework updates)
-- GitHub: https://github.com/phibronotchi-beep/phyllux-framework
+- Discussions: [GitHub Discussions](https://github.com/phibronotchi-beep/phyllux-framework/discussions)
 
 ---
 
@@ -532,7 +585,7 @@ Welcome to Phyllux.
 ### [→ Get Started Now](GETTING_STARTED.md)
 ### [→ Download Templates](TEMPLATES/)
 ### [→ Read the Philosophy](WHY_PHYLLUX.md)
-### [→ Join the Community](COMMUNITY/)
+### [→ Contribute](CONTRIBUTING.md)
 
 ---
 
@@ -545,6 +598,20 @@ Welcome to Phyllux.
 **License:** CC BY-SA 4.0
 
 🌟 **Star this repo** if you believe in fair innovation! 🌟
+
+---
+
+---
+
+## 🌿 Phyllux Ecosystem
+
+This repository is part of the Phyllux Technologies ecosystem:
+
+- **[biomimetic-inventions-public](https://github.com/phibronotchi-beep/biomimetic-inventions-public)** - Public demos & prior art
+- **[phyllux-framework](https://github.com/phibronotchi-beep/phyllux-framework)** - Ethical IP framework (this repo)
+- **[phyllux-inventions-wip](https://github.com/phibronotchi-beep/phyllux-inventions-wip)** - 350 technology fusions
+
+**Learn more:** [Phyllux Technologies](https://github.com/phibronotchi-beep)
 
 ---
 

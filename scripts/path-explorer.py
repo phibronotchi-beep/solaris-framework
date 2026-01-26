@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-PHYLLUX PATH EXPLORER
-Safe branch generation following phyllotactic patterns (137.508° golden angle)
-Generates infinite paths while maintaining link integrity
+path-explorer.py - Phyllotactic Path Explorer
+
+Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+Inventor: David Edward Sproule (@Phibronotchi)
+License: MIT (code) / CC BY-SA 4.0 (documentation)
+Repository: https://github.com/phibronotchi-beep/phyllux-framework
+
+Safe branch generation following phyllotactic patterns (137.508° golden angle).
+Generates infinite paths while maintaining link integrity.
+
+Usage:
+    python path-explorer.py --generate-map
+    python path-explorer.py --validate README.md
+    python path-explorer.py --find-path seed wave
 """
 
 import math

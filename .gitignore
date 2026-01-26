@@ -60,12 +60,29 @@ desktop.ini
 *.sublime-*
 *.code-workspace
 
-# Build Artifacts
+# Dependencies
 node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+*.env
+
+# Build Artifacts
 dist/
 build/
-*.pyc
-__pycache__/
+*.egg-info/
+*.egg
 *.class
 *.o
 *.obj
@@ -85,6 +102,23 @@ __pycache__/
 *.db
 *.sqlite
 *.sqlite3
+
+# IDE/Editor Files (already have some, adding more)
+*.swp
+*.swo
+*~
+._*
+.project
+.classpath
+.settings/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archive directory (contains archived/temporary files)
+.archive/
 
 # Keep only essential documentation and code files
 # Markdown, text, and source code files are tracked

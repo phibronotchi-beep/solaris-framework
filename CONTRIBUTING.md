@@ -2,6 +2,9 @@
 
 Thank you for your interest in contributing to the Phyllux Framework.
 
+**Part of Phyllux Technologies** - Nature's 137.508° Innovation  
+**Repository:** https://github.com/phibronotchi-beep/phyllux-framework
+
 ## Repository Role
 
 This repository defines ethical, licensing, and collaboration structures for independent inventors. It provides templates, guides, and a framework for protecting intellectual property.

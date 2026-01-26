@@ -1,7 +1,18 @@
 /**
- * 🌿 PHYLLUX INVENTION GENERATOR 🌿
- * DQ (Data Quality) idea generation with leak detection
- * Prevents trade secret exposure, ensures Track 1 only
+ * invention-generator.js - Phyllux Invention Generator
+ *
+ * Part of Phyllux Technologies - Multi-Domain Phyllotactic Systems
+ * Inventor: David Edward Sproule (@Phibronotchi)
+ * License: MIT (code) / CC BY-SA 4.0 (documentation)
+ * Repository: https://github.com/phibronotchi-beep/phyllux-framework
+ *
+ * DQ (Data Quality) idea generation with leak detection.
+ * Prevents trade secret exposure, ensures Track 1 only.
+ *
+ * Usage:
+ *     node invention-generator.js
+ *     const generator = new InventionGenerator();
+ *     const invention = generator.generateSafeInvention('seed');
  */
 
 const GOLDEN_ANGLE = 137.508;
