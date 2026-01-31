@@ -28,7 +28,7 @@
 ### 🎯 Framework Core Concepts
 
 **4-Tier Licensing Model:**
-- **Tier 1 (Pioneer):** World-changing missions (SpaceX, Neuralink) - Minimal fee, 0% royalty
+- **Tier 1 (Pioneer):** World-changing missions (e.g. satellite, BCI) - Minimal fee, 0% royalty
 - **Tier 2 (Mission-Aligned):** Companies serving humanity - $10K-100K + 1-3% royalty
 - **Tier 3 (Commercial):** For-profit companies - $100K-1M + 3-5% royalty
 - **Tier 4 (Free):** Research, education, personal use - $0, citation required
@@ -73,7 +73,7 @@
 - Business models and revenue strategies
 
 **Invention Concepts:**
-- Chokmah-fused safe concepts (Track 1 only)
+- Curated safe concepts (Track 1 only)
 - Research-stage inventions with proper caveats
 - Simulation-based validations
 - FDA/standards compliance notes

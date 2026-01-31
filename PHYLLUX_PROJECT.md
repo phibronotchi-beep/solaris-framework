@@ -109,8 +109,8 @@ Licensees must agree to:
 
 ### **Priority: Tier 1 (Pioneer)**
 **Elon Musk's Companies:**
-- **SpaceX** (Phyllux Wave for satellite comms, Phyllux Vault for secure telemetry)
-- **Neuralink** (Phyllux Mesh for electrode arrays, reduced crosstalk)
+- **Tier 1 satellite** (Phyllux Wave for satellite comms, Phyllux Vault for secure telemetry)
+- **Tier 1 BCI** (Phyllux Mesh for electrode arrays, reduced crosstalk)
 - **Tesla** (Phyllux Wave for vehicle-to-vehicle comms)
 - **X/Twitter** (Phyllux Vault for encrypted messaging)
 

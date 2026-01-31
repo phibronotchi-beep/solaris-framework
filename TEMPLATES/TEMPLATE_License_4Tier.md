@@ -143,8 +143,8 @@ I'll respond within 48 hours with terms discussion.
 - Ventures working on multi-planetary life, artificial general intelligence, brain-computer symbiosis, existential risk reduction, or similar transformative goals
 
 **Examples:**
-- SpaceX (multi-planetary species)
-- Neuralink (human-AI symbiosis)
+- Tier 1 satellite (e.g. multi-planetary species)
+- Tier 1 BCI (e.g. human-AI symbiosis)
 - OpenAI/Anthropic (safe AGI)
 - Organizations focused on long-term civilizational resilience
 

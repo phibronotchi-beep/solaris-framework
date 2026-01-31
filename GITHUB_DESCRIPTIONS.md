@@ -134,7 +134,7 @@ Check out:
 
 Free for research. Fair licensing for commercial use.
 
-#Biomimicry #BCI #Neuralink #Quantum #Phyllux
+#Biomimicry #BCI #Quantum #Phyllux
 ```
 
 ### **LinkedIn Post (Professional Audience):**

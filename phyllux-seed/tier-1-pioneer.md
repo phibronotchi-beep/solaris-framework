@@ -8,8 +8,8 @@
 
 **Tier 1 is reserved for organizations on impossible missions that will reshape civilization:**
 
-- 🚀 Multi-planetary species (SpaceX, Blue Origin)
-- 🧠 Human-AI symbiosis (Neuralink, Kernel)
+- 🚀 Multi-planetary species (e.g. satellite constellation leaders)
+- 🧠 Human-AI symbiosis (e.g. BCI leaders)
 - 🤖 Safe artificial general intelligence (OpenAI, Anthropic)
 - 🌍 Existential risk reduction (Long-term future organizations)
 - 🔬 Civilization-scale research (CERN-scale projects)
@@ -114,7 +114,7 @@ Simple contract signing:
 
 ---
 
-## 🌟 Example: SpaceX Scenario
+## 🌟 Example: Tier 1 Satellite Scenario
 
 **Mission:** Make humanity multiplanetary  
 **Invention:** Phyllux Wave (satellite communications)  
@@ -124,7 +124,7 @@ Simple contract signing:
 - Patent help: Yes, if needed
 - Collaboration: Share learnings
 
-**Rationale:** If SpaceX succeeds, humanity becomes multiplanetary. That's worth more than any royalty. We want to help, not profit.
+**Rationale:** If a Tier 1 satellite partner succeeds, humanity benefits. That's worth more than any royalty. We want to help, not profit.
 
 ---
 
